@@ -1,0 +1,2 @@
+# .github
+Foxhole Larpers readme
